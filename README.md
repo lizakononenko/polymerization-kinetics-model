@@ -39,3 +39,9 @@ python polymerization_kinetics_model.py
 
 This project was developed as part of my work with mathematical modeling
 of physicochemical processes.
+
+## Results
+<img width="635" height="489" alt="Unknown" src="https://github.com/user-attachments/assets/b779cbd4-d517-45c0-8afe-79ebe6d1487f" />
+<img width="626" height="470" alt="Unknown-3" src="https://github.com/user-attachments/assets/5f9f9b16-da6d-443b-b34e-43550ef18ce2" />
+<img width="641" height="489" alt="Unknown-2" src="https://github.com/user-attachments/assets/f8502ec9-bfd2-433a-a8b6-48426b75ff9c" />
+
